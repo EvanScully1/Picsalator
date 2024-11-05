@@ -1,42 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.8.3">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="3d76a8aef4d5c911-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="40" y="70" width="1150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3d76a8aef4d5c911-2" value="Company" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=14;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
-          <mxGeometry width="115" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3d76a8aef4d5c911-3" value="People" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#000000;strokeColor=none;fontColor=#ffffff;spacingRight=30;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
-          <mxGeometry x="115" width="129.375" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3d76a8aef4d5c911-4" value="84" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=8;fillColor=#ff0000;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;" parent="3d76a8aef4d5c911-3" vertex="1">
-          <mxGeometry x="1" y="0.5" width="25" height="16" relative="1" as="geometry">
-            <mxPoint x="-30" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3d76a8aef4d5c911-5" value="Violations" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;spacingRight=30;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
-          <mxGeometry x="244.375" width="158.125" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3d76a8aef4d5c911-6" value="42" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=8;fillColor=#ff0000;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;" parent="3d76a8aef4d5c911-5" vertex="1">
-          <mxGeometry x="1" y="0.5" width="25" height="16" relative="1" as="geometry">
-            <mxPoint x="-30" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3d76a8aef4d5c911-7" value="Statistics" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
-          <mxGeometry x="402.5" width="115" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3d76a8aef4d5c911-8" value="Settings" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
-          <mxGeometry x="517.5" width="100.625" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3d76a8aef4d5c911-9" value="Profile" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
-          <mxGeometry x="948.75" width="100.625" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3d76a8aef4d5c911-10" value="Log Out" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
-          <mxGeometry x="1049.375" width="100.625" height="40" as="geometry" />
+        <mxCell id="3d76a8aef4d5c911-1" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Bonheur Royale&amp;quot;; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 54px;&quot; color=&quot;#aee1ff&quot;&gt;Picsalator&lt;/font&gt;&lt;/span&gt;&lt;/blockquote&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="20" width="1150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3d76a8aef4d5c911-11" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;rounded=0;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="860" y="150" width="330" height="400" as="geometry" />
@@ -191,6 +160,11 @@
         <mxCell id="3d76a8aef4d5c911-59" value="Button" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=16;strokeColor=#dddddd;whiteSpace=wrap;" parent="3d76a8aef4d5c911-54" vertex="1">
           <mxGeometry y="1" width="80" height="40" relative="1" as="geometry">
             <mxPoint x="100" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kzN0mlyUPkfVStnf4kAo-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="3d76a8aef4d5c911-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="224.66666666666674" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
